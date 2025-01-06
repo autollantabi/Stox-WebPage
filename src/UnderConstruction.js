@@ -11,7 +11,7 @@ const UnderConstruction = () => {
       minWidth:"350px"
     },
     header: {
-      backgroundColor: colores.secundario,
+      backgroundColor: colores.terciario,
       color: "white",
       padding: "20px",
     },
@@ -29,8 +29,8 @@ const UnderConstruction = () => {
     <div style={styles.container}>
       <header style={styles.header}>
         <img
-          src="/LogoStox.png"
-          alt="Logo Stox"
+          src="/LogoUyustools.png"
+          alt="Logo Uyustools"
           style={styles.logo}
         />
       </header>
